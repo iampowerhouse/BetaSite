@@ -1,0 +1,40 @@
+@font-face
+{
+    font-family:font1;
+    src:url("fonts/ostrich-bold.ttf");
+}
+@font-face
+{
+    font-family:font2;
+    src:url("fonts/ostrich-reg.ttf")
+}
+
+.name
+{
+    font-family:font1;
+}
+
+.sub{
+    font-family:font2;
+}
+.desi
+{
+    font-family:font1;
+}
+.subdesi
+{
+    font-family:font2;
+}
+.name{
+	font-size: 150px;
+	line-height: 75%;
+	margin: 0;
+	font-weight: bold;
+}
+.sub{
+	font-size: 36px;
+	clear: both;
+	margin: 0;
+	padding: 0;
+	line-height: 130%;
+}
